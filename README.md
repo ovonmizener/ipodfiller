@@ -46,17 +46,17 @@ A modern desktop app to download and organize music from public Spotify playlist
    ```
 3. The executable will be in the `dist` folder as `main.exe`.
 
-## Distributing to End Users
-
-- Send your friend the `main.exe` from the `dist` folder.
-- They do **not** need to install Python or FFmpeg.
-- They just double-click `main.exe` to run the app.
-
 ## For GitHub Users / Developers
 
 - **The compiled `.exe` is NOT included in this repository.**
 - If you clone this repo, you must run the app from source using Python (see "Usage (for developers)" above).
 - If you want to build your own `.exe`, follow the "Building a Standalone Executable" instructions.
+
+## Disclaimer
+
+This application is provided solely for personal use and for obtaining music that you have the legal rights to access. I do not condone, support, or promote music piracy in any form. The purpose of this tool is to help manage and organize music that you already own or have explicit permission to use.
+
+By using this application, you agree that it is your responsibility to comply with all applicable copyright laws and licensing agreements. I am not responsible for any illicit or unauthorized use of this application. Use it responsibly and ensure that you only download content for which you hold the necessary rights.
 
 ## Notes
 
