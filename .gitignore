@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Installer logs
+debug.log
+
+# PyInstaller
+*.spec
+*.exe
+ffmpeg.exe
+
+# Virtual environments
+venv/
+env/
+
+# Config and secrets
+config.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
